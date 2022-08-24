@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 def descompact(lista):
     binario = []
     quantidade = []
