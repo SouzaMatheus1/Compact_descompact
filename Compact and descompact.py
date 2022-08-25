@@ -9,7 +9,7 @@ def descompact(lista):
     outra_lista = []
     dicionario = {}
     binario_completo = []
-    resultado =[]
+    resultado = []
     lista_qualquercoisa = []
     for i in range(int(quantidade[0])):
             qualidade.append(lista[i])
